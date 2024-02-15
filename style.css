@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+#Container{
+    height: 100vh;
+    background-color: rgb(5, 117, 117);
+}
+#Ball{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: rgb(59, 20, 20);
+    position: relative;
+}
