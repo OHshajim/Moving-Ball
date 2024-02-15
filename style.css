@@ -1,10 +1,12 @@
 body{
     margin: 0;
 }
+/* back ground */
 #Container{
     height: 100vh;
-    background-color: rgb(5, 117, 117);
+    background-color: rgb(14, 102, 191);
 }
+/* ball */
 #Ball{
     width: 30px;
     height: 28px;
