@@ -8,8 +8,8 @@ body{
 }
 /* ball */
 #Ball{
-    width: 30px;
-    height: 28px;
+    width: 40px;
+    height: 38px;
     border-radius: 50%;
     background-color: rgb(85, 20, 20);
     position: relative;
